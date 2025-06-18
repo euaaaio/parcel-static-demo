@@ -1,0 +1,36 @@
+/* Simple styles with different colors for different links */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+#home { background-color: #ff6b6b; color: white; }
+#about { background-color: #4ecdc4; color: white; }
+#contact { background-color: #45b7d1; color: white; }
+#services { background-color: #96ceb4; color: white; }
+#blog { background-color: #feca57; color: white; }
+#products { background-color: #ff9ff3; color: white; }
+#team { background-color: #54a0ff; color: white; }
+#gallery { background-color: #5f27cd; color: white; }
+#news { background-color: #00d2d3; color: white; }
+#portfolio { background-color: #ff6348; color: white; } 
